@@ -1,0 +1,15 @@
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.Web.deps.json
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.Web.runtimeconfig.json
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.Web.runtimeconfig.dev.json
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.Web.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.Web.pdb
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinSCPnet.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\bin\Debug\netcoreapp2.0\WinScpNetCore.pdb
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.csprojResolveAssemblyReference.cache
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.csproj.CoreCompileInputs.cache
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.AssemblyInfoInputs.cache
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.AssemblyInfo.cs
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.csproj.CopyComplete
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore.Web\obj\Debug\netcoreapp2.0\WinScpNetCore.Web.pdb

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="WinSCPnet">
+      <HintPath>..\..\..\ToolsRepo\WinSCP-20180424rnetstandard2-Automation\netstandard2.0\WinSCPnet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+U:\testingTemp\WinScpNetCore\WinScpNetCore\bin\Debug\netcoreapp2.0\WinScpNetCore.deps.json
+U:\testingTemp\WinScpNetCore\WinScpNetCore\bin\Debug\netcoreapp2.0\WinScpNetCore.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore\bin\Debug\netcoreapp2.0\WinScpNetCore.pdb
+U:\testingTemp\WinScpNetCore\WinScpNetCore\bin\Debug\netcoreapp2.0\WinSCPnet.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.csprojResolveAssemblyReference.cache
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.csproj.CoreCompileInputs.cache
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.AssemblyInfoInputs.cache
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.AssemblyInfo.cs
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.csproj.CopyComplete
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.dll
+U:\testingTemp\WinScpNetCore\WinScpNetCore\obj\Debug\netcoreapp2.0\WinScpNetCore.pdb

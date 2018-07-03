@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinScpNetCore", "WinScpNetCore\WinScpNetCore.csproj", "{82DCE992-3E44-439C-9951-C76FAC58026A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinScpNetCore.Web", "WinScpNetCore.Web\WinScpNetCore.Web.csproj", "{409439D9-D5EC-4457-BC04-6C242360BDE0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{82DCE992-3E44-439C-9951-C76FAC58026A} = {82DCE992-3E44-439C-9951-C76FAC58026A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DCE992-3E44-439C-9951-C76FAC58026A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DCE992-3E44-439C-9951-C76FAC58026A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DCE992-3E44-439C-9951-C76FAC58026A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DCE992-3E44-439C-9951-C76FAC58026A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409439D9-D5EC-4457-BC04-6C242360BDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409439D9-D5EC-4457-BC04-6C242360BDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409439D9-D5EC-4457-BC04-6C242360BDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409439D9-D5EC-4457-BC04-6C242360BDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BF9442-A66D-4430-9358-802E645B4BEF}
+	EndGlobalSection
+EndGlobal
